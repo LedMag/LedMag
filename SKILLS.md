@@ -23,7 +23,7 @@
 | 🟩 Object            | 🟩 logical operators  | 🟩 callback           | 🟩 Set              | 🟦 duplicate code    |
 | 🟩 this              | 🟩 bitwise operators  | 🟩 listener           | ⬜️ weak collections | 🟩 exception         |
 | 🟩 arrow function    | 🟩 break, continue    | 🟩 pipe               | ⬜️ Proxy            | 🟦 return early      |
-| 🟩 generator         | 🟩 switch             | ⬜️ memoize            | ⬜️ Symbol           | 🟦 linter            |
+| 🟩 generator         | 🟩 switch             | 🟩 memoize            | ⬜️ Symbol           | 🟦 linter            |
 | 🟦 async function    | 🟩 new Error          | 🟦 factory            | 🟩 string parsing   | ⬜️ prettier          |
 | 🟦 call, bind, apply |                       | 🟦 pool               | 🟨 timers           | 🟦 unittest          |
 | 🟩 Array             |                       | 🟩 wrapper            | 🟨 EventEmitter     | 🟩 git               |
